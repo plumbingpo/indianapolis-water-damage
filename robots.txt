@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationindianapolis.com/sitemap.xml
